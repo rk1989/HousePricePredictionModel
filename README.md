@@ -29,7 +29,13 @@
 - Lasso Regression provided feature elimination options
 - With Lasso Regression following features were eliminated -
   BsmtUnSF, 2ndFlrSF, LowQualFinSF, 3SsnPorch, PoolArea, all_utilities, prox_NS, prox_adj, lot_inside, foundation_cinder, mansory_type_available, and 1_Story_1946
-  - See Jupyter notebook for significant in predicting the price of a house,
+  - See Jupyter notebook for a list of significant variables in predicting the price of a house,
+- The top 5 predictors in the Lasso model (before removing them) are – 
+  - GrLivArea                
+  - TotalBsmtSF              
+  - GarageCars              
+  - BsmtFinSF1                
+  - LotArea       
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
